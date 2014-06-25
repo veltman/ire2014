@@ -4,23 +4,23 @@ Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
 Noah Veltman ([@veltman](http://twitter.com/veltman))
 
-## General ##
+### General ###
 
 [Source](https://source.opennews.org/) typically publishes behind-the-scenes writeups of interactives several times a week.
 
 The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscribe-nicar-l/) is a great resource to get help on projects.
 
-## Maps ##
+### Maps ###
 
 [A long list of resources for making maps](https://github.com/veltman/maps-nicar14/blob/master/tipsheet.md)
 
-## Charts ##
+### Charts ###
 
 [Highcharts](http://www.highcharts.com/) - A popular library for drawing mildly interactive charts without much code.
 
 [Chartbuilder](https://github.com/Quartz/Chartbuilder/) - A customizable chartmaker used by Quartz and others.
 
-## Using Google Spreadsheets ##
+### Using Google Spreadsheets ###
 
 [Tabletop](https://github.com/jsoma/tabletop) - Use a Google spreadsheet to manage content for an interactive.
 
@@ -28,7 +28,7 @@ The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscrib
 
 Mother Jones has tools for building [Choose Your Own Adventures](https://github.com/motherjones/cyoa), [maps of the US](https://github.com/motherjones/spreadsheet-to-svg), and [quizzes](https://github.com/motherjones/newsquiz), all of which can be powered by Google spreadsheets.
 
-## Principles/Best Practices ##
+### Principles/Best Practices ###
 
 ProPublica's [Nerd Guides](https://github.com/propublica/guides/)  
 
@@ -38,7 +38,7 @@ Lena Groeger's [course materials on design](http://lenagroeger.com/design/)
 
 Noah Veltman's [principles for making things for the web](https://github.com/veltman/principles)
 
-## Newsroom interactive teams ##
+### Newsroom interactive teams ###
 
 *An incomplete list*
 
@@ -96,7 +96,7 @@ http://www.pinterest.com/theguardian/guardian-graphics-interactives/
 [@MinnData](http://twitter.com/MinnData)  
 http://www.minnpost.com/data
 
-## Miscellaneous ##
+### Miscellaneous ###
 
 [The Knight Lab](http://projects.knightlab.com/#toolbox) produces tools and templates for interactives), like StoryMap and TimelineJS  
 
