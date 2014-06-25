@@ -4,6 +4,16 @@ Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
 Noah Veltman ([@veltman](http://twitter.com/veltman))
 
+## Some of our projects ##
+
+#### Mother Jones ######
+[Mother Jones Guide to Mass Shootings](http://www.motherjones.com/politics/2012/07/mass-shootings-map)
+[Map: Is There a Risky Chemical Plant Near You?](http://www.motherjones.com/environment/2014/04/west-texas-hazardous-chemical-map)
+[What If Your Income Grew As Fast as the 1 Percent's?](http://www.motherjones.com/politics/2013/12/calculator-what-if-your-income-grew-fast-1-percent)
+[BPA-free Plastic Bottles Aren't As Safe As You Think](http://www.motherjones.com/environment/2014/06/bpa-free-plastics-tritan-nalgene-dangerous)
+
+
+
 ### General ###
 
 [Source](https://source.opennews.org/) typically publishes behind-the-scenes writeups of interactives several times a week.
