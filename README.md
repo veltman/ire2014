@@ -93,8 +93,8 @@ http://www.pinterest.com/theguardian/guardian-graphics-interactives/
 [@GuardianGraphic](https://twitter.com/GraphicGuardian)
 
 **MinnPost Data:**  
-[@MinnData](http://twitter.com/MinnData)  
-http://www.minnpost.com/data
+http://www.minnpost.com/data  
+[@MinnData](http://twitter.com/MinnData)
 
 ### Miscellaneous ###
 
