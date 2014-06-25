@@ -98,14 +98,14 @@ http://www.minnpost.com/data
 
 ### Miscellaneous ###
 
-[The Knight Lab](http://projects.knightlab.com/#toolbox) produces tools and templates for interactives), like StoryMap and TimelineJS  
+[The Knight Lab](http://projects.knightlab.com/#toolbox) produces tools for making interactive maps (StoryMap), timelines (TimelineJS), and inline audio (SoundCite).
 
-[CodeWithMe](http://codewithme.us/) hosts multi-day workshops to teach web programming to journalists  
+[CodeWithMe](http://codewithme.us/) hosts multi-day workshops to teach web programming to journalists.  
 
-Noah Veltman's [Learning Lunches](https://github.com/veltman/learninglunches) aim to help demystify web concepts for digital journalists  
+Noah Veltman's [Learning Lunches](https://github.com/veltman/learninglunches) aim to help demystify web concepts for digital journalists.  
 
-[Census Reporter](http://censusreporter.org/) offers embeddable charts based on census data  
+[Census Reporter](http://censusreporter.org/) offers embeddable charts based on census data.  
 
-[newsvis.org](http://newsviz.org) has started compilation newsroom visualization projects  
+[newsvis.org](http://newsviz.org) has started compiling a gallery of newsroom visualization projects.  
 
 The firehose: Chrys Wu's [giant list of materials and tools presented at NICAR](http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/)
