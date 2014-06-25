@@ -20,8 +20,12 @@ The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscrib
 
 [Chartbuilder](https://github.com/Quartz/Chartbuilder/) - A customizable chartmaker used by Quartz and others.
 
-### Timelines ###
+### Multimedia ###
 [Timeline.js](http://timeline.knightlab.com/) - Beautifully crafted timelines that are easy and intuitive to use.
+
+[SoundCite](http://soundcite.knightlab.com/) - Making inline audio easy and seamless
+
+[Mozilla PopcornMaker](https://popcorn.webmaker.org/) - Remix web video, audio and images into mashups that you can embed on other websites.
 
 ### Using Google Spreadsheets ###
 
