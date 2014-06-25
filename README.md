@@ -27,6 +27,8 @@ The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscrib
 
 [Mozilla PopcornMaker](https://popcorn.webmaker.org/) - Remix web video, audio and images into mashups that you can embed on other websites.
 
+[jPlayer](http://www.jplayer.org/) - Stand-alone audio and video player.
+
 ### Using Google Spreadsheets ###
 
 [Tabletop](https://github.com/jsoma/tabletop) - Use a Google spreadsheet to manage content for an interactive.
