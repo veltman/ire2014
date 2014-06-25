@@ -4,7 +4,7 @@ Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
 Noah Veltman ([@veltman](http://twitter.com/veltman))
 
-## Some of our projects ##
+### Some of our projects ###
 
 #### Mother Jones ######
 [Mother Jones Guide to Mass Shootings](http://www.motherjones.com/politics/2012/07/mass-shootings-map)
