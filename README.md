@@ -51,7 +51,7 @@ Lena Groeger's [course materials on design](http://lenagroeger.com/design/)
 
 Noah Veltman's [principles for making things for the web](https://github.com/veltman/principles)
 
-![Alt text](http://darkhorseanalytics.com/blog/wp-content/uploads/2014/03/ClearOffTheTableMd.gif "Optional title")
+![Better data tables](http://darkhorseanalytics.com/blog/wp-content/uploads/2014/03/ClearOffTheTableMd.gif "Design better looking data tables")
 
 ### Newsroom interactive teams ###
 
