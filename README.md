@@ -20,6 +20,9 @@ The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscrib
 
 [Chartbuilder](https://github.com/Quartz/Chartbuilder/) - A customizable chartmaker used by Quartz and others.
 
+### Timelines ###
+[Timeline.js](http://timeline.knightlab.com/) - Beautifully crafted timelines that are easy and intuitive to use.
+
 ### Using Google Spreadsheets ###
 
 [Tabletop](https://github.com/jsoma/tabletop) - Use a Google spreadsheet to manage content for an interactive.
