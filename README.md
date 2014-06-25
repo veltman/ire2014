@@ -1,4 +1,4 @@
-# Getting started with interactive news projects #
+# Interactive news resources #
 
 Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))  
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
