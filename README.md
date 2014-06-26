@@ -1,10 +1,10 @@
-# bit.ly/ire-interactive #
-
 # Interactive news resources #
 
 Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))  
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
 Noah Veltman ([@veltman](http://twitter.com/veltman))
+
+http://bit.ly/ire-interactive
 
 ### General ###
 
