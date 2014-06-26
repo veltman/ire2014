@@ -34,6 +34,24 @@ Noah Veltman ([@veltman](http://twitter.com/veltman))
 
 [Life in the Middle: New York Neighborhoods at the Median Income](http://www.wnyc.org/story/life-in-the-middle/)
 
+#### The New York Times ####
+
+[A Star Player Accused, and a Flawed Rape Investigation](http://www.nytimes.com/interactive/2014/04/16/sports/errors-in-inquiry-on-rape-allegations-against-fsu-jameis-winston.html)
+
+[Invisible Child](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)
+
+[Two Gunshots On a Summer Night](http://www.nytimes.com/projects/2013/two-gunshots/)
+
+[In Need of a New Hip, but Priced Out of the U.S.](http://www.nytimes.com/2013/08/04/health/for-medical-tourists-simple-math.html)
+
+[Children and Guns: The Hidden Toll](http://www.nytimes.com/2013/09/29/us/children-and-guns-the-hidden-toll.html)
+
+[A Drug War Informer in No Man’s Land](http://www.nytimes.com/2013/04/29/us/us-mexico-dea-informant.html)
+
+[As OSHA Emphasizes Safety, Long-Term Health Risks Fester](http://www.nytimes.com/2013/03/31/us/osha-emphasizes-safety-health-risks-fester.html)
+
+[Punched Out The Life and Death of a Hockey Enforcer ](http://www.nytimes.com/interactive/2011/12/04/sports/hockey/boogaard-video.html)
+
 ### General ###
 
 [Source](https://source.opennews.org/) typically publishes behind-the-scenes writeups of interactives several times a week.
