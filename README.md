@@ -6,54 +6,6 @@ Tasneem Raja ([@tasneemraja](http://twitter.com/tasneemraja))
 Josh Williams ([@sjwilliams](http://twitter.com/sjwilliams))  
 Noah Veltman ([@veltman](http://twitter.com/veltman))
 
-### Some of our projects ###
-
-#### Mother Jones ######
-
-[Mother Jones Guide to Mass Shootings](http://www.motherjones.com/politics/2012/07/mass-shootings-map)
-
-[Map: Is There a Risky Chemical Plant Near You?](http://www.motherjones.com/environment/2014/04/west-texas-hazardous-chemical-map)
-
-[What If Your Income Grew As Fast as the 1 Percent's?](http://www.motherjones.com/politics/2013/12/calculator-what-if-your-income-grew-fast-1-percent)
-
-[BPA-free Plastic Bottles Aren't As Safe As You Think](http://www.motherjones.com/environment/2014/06/bpa-free-plastics-tritan-nalgene-dangerous)
-
-#### WNYC ####
-
-[Mean Streets: Tracking Traffic Deaths](http://project.wnyc.org/traffic-deaths/)
-
-[The 911 Calls](http://project.wnyc.org/convent-fire/)
-
-[SchoolBook](http://data.schoolbook.org/)
-
-[Calculate This: Hoboken's Missing Sandy Aid](http://project.wnyc.org/hoboken-scores/)
-
-[Available Pre-K Seats by Neighborhood](http://project.wnyc.org/schoolbook-prek/)
-
-[A Day in the Life of New York Car Crashes](http://project.wnyc.org/collisions/)
-
-[Where People Don't Vote](http://project.wnyc.org/non-voters/)
-
-[Life in the Middle: New York Neighborhoods at the Median Income](http://www.wnyc.org/story/life-in-the-middle/)
-
-#### The New York Times ####
-
-[A Star Player Accused, and a Flawed Rape Investigation](http://www.nytimes.com/interactive/2014/04/16/sports/errors-in-inquiry-on-rape-allegations-against-fsu-jameis-winston.html)
-
-[Invisible Child](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)
-
-[Two Gunshots On a Summer Night](http://www.nytimes.com/projects/2013/two-gunshots/)
-
-[In Need of a New Hip, but Priced Out of the U.S.](http://www.nytimes.com/2013/08/04/health/for-medical-tourists-simple-math.html)
-
-[Children and Guns: The Hidden Toll](http://www.nytimes.com/2013/09/29/us/children-and-guns-the-hidden-toll.html)
-
-[A Drug War Informer in No Man’s Land](http://www.nytimes.com/2013/04/29/us/us-mexico-dea-informant.html)
-
-[As OSHA Emphasizes Safety, Long-Term Health Risks Fester](http://www.nytimes.com/2013/03/31/us/osha-emphasizes-safety-health-risks-fester.html)
-
-[Punched Out The Life and Death of a Hockey Enforcer ](http://www.nytimes.com/interactive/2011/12/04/sports/hockey/boogaard-video.html)
-
 ### General ###
 
 [Source](https://source.opennews.org/) typically publishes behind-the-scenes writeups of interactives several times a week.
@@ -173,3 +125,51 @@ Noah Veltman's [Learning Lunches](https://github.com/veltman/learninglunches) ai
 [newsvis.org](http://newsviz.org) has started compiling a gallery of newsroom visualization projects.  
 
 The firehose: Chrys Wu's [giant list of materials and tools presented at NICAR](http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/)
+
+### Some examples of our projects ###
+
+#### Mother Jones ######
+
+[Mother Jones Guide to Mass Shootings](http://www.motherjones.com/politics/2012/07/mass-shootings-map)
+
+[Map: Is There a Risky Chemical Plant Near You?](http://www.motherjones.com/environment/2014/04/west-texas-hazardous-chemical-map)
+
+[What If Your Income Grew As Fast as the 1 Percent's?](http://www.motherjones.com/politics/2013/12/calculator-what-if-your-income-grew-fast-1-percent)
+
+[BPA-free Plastic Bottles Aren't As Safe As You Think](http://www.motherjones.com/environment/2014/06/bpa-free-plastics-tritan-nalgene-dangerous)
+
+#### WNYC ####
+
+[The 911 Calls](http://project.wnyc.org/convent-fire/)
+
+[Mean Streets: Tracking Traffic Deaths](http://project.wnyc.org/traffic-deaths/)
+
+[Calculate This: Hoboken's Missing Sandy Aid](http://project.wnyc.org/hoboken-scores/)
+
+[Available Pre-K Seats by Neighborhood](http://project.wnyc.org/schoolbook-prek/)
+
+[A Day in the Life of New York Car Crashes](http://project.wnyc.org/collisions/)
+
+[SchoolBook](http://data.schoolbook.org/)
+
+[Where People Don't Vote](http://project.wnyc.org/non-voters/)
+
+[Life in the Middle: New York Neighborhoods at the Median Income](http://www.wnyc.org/story/life-in-the-middle/)
+
+#### The New York Times ####
+
+[A Star Player Accused, and a Flawed Rape Investigation](http://www.nytimes.com/interactive/2014/04/16/sports/errors-in-inquiry-on-rape-allegations-against-fsu-jameis-winston.html)
+
+[Invisible Child](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)
+
+[Two Gunshots On a Summer Night](http://www.nytimes.com/projects/2013/two-gunshots/)
+
+[In Need of a New Hip, but Priced Out of the U.S.](http://www.nytimes.com/2013/08/04/health/for-medical-tourists-simple-math.html)
+
+[Children and Guns: The Hidden Toll](http://www.nytimes.com/2013/09/29/us/children-and-guns-the-hidden-toll.html)
+
+[A Drug War Informer in No Man’s Land](http://www.nytimes.com/2013/04/29/us/us-mexico-dea-informant.html)
+
+[As OSHA Emphasizes Safety, Long-Term Health Risks Fester](http://www.nytimes.com/2013/03/31/us/osha-emphasizes-safety-health-risks-fester.html)
+
+[Punched Out The Life and Death of a Hockey Enforcer ](http://www.nytimes.com/interactive/2011/12/04/sports/hockey/boogaard-video.html)
