@@ -50,10 +50,15 @@ The [NICAR-L mailing list](http://www.ire.org/resource-center/listservs/subscrib
 
 [Chartbuilder](https://github.com/Quartz/Chartbuilder/) - A customizable chartmaker used by Quartz and others.
 
+### Documents ###
+[DocumentCloud](http://www.documentcloud.org/) - Analyze, annotate and publish your documents.
+
 ### Multimedia ###
 [Timeline.js](http://timeline.knightlab.com/) - Beautifully crafted timelines that are easy and intuitive to use.
 
-[SoundCite](http://soundcite.knightlab.com/) - Making inline audio easy and seamless
+[StoryMap.js](http://storymap.knightlab.com/) - A tool that allows journalists to craft narratives in which location is a key component of the story.
+
+[SoundCite](http://soundcite.knightlab.com/) - Making inline audio easy and seamless.
 
 [Mozilla PopcornMaker](https://popcorn.webmaker.org/) - Remix web video, audio and images into mashups that you can embed on other websites.
 
@@ -138,8 +143,6 @@ http://www.minnpost.com/data
 [@MinnData](http://twitter.com/MinnData)
 
 ### Miscellaneous ###
-
-[The Knight Lab](http://projects.knightlab.com/#toolbox) produces tools for making interactive maps (StoryMap), timelines (TimelineJS), and inline audio (SoundCite).
 
 [CodeWithMe](http://codewithme.us/) hosts multi-day workshops to teach web programming to journalists.  
 
