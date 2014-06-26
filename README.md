@@ -54,8 +54,6 @@ Lena Groeger's [course materials on design](http://lenagroeger.com/design/)
 
 Noah Veltman's [principles for making things for the web](https://github.com/veltman/principles)
 
-![Better data tables](http://darkhorseanalytics.com/blog/wp-content/uploads/2014/03/ClearOffTheTableMd.gif "Design better looking data tables")
-
 ### Newsroom interactive teams ###
 
 *An incomplete list*
@@ -125,6 +123,12 @@ Noah Veltman's [Learning Lunches](https://github.com/veltman/learninglunches) ai
 [newsvis.org](http://newsviz.org) has started compiling a gallery of newsroom visualization projects.  
 
 The firehose: Chrys Wu's [giant list of materials and tools presented at NICAR](http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/)
+
+### Two gifs on data design ###
+
+![Better charts](http://darkhorseanalytics.com/blog/wp-content/uploads/2013/08/data-ink.gif "Design better charts")
+
+![Better data tables](http://darkhorseanalytics.com/blog/wp-content/uploads/2014/03/ClearOffTheTableMd.gif "Design better looking data tables")
 
 ### Some examples of our projects ###
 
